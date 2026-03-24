@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36603.0 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RAD SA VIŠE FORMI", "RAD SA VIŠE FORMI\RAD SA VIŠE FORMI.csproj", "{2EC4A183-5652-4DED-8D6D-C54A1ADCA432}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2EC4A183-5652-4DED-8D6D-C54A1ADCA432}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EC4A183-5652-4DED-8D6D-C54A1ADCA432}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EC4A183-5652-4DED-8D6D-C54A1ADCA432}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EC4A183-5652-4DED-8D6D-C54A1ADCA432}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {63FBF858-212A-4E1E-8DAE-3E6A0C9E1DE8}
+	EndGlobalSection
+EndGlobal
